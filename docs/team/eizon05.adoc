@@ -52,7 +52,7 @@ inception. (see https://docs.google.com/document/d/1mKmIZghbtYwgSWdDTiRQDLdXjKNh
 
 * Enhancements to existing features:
 ** Wrote test cases for _Inventory Manager_
-** Updated the UI to make it more interactive and user friendly https://github.com/AY1920S1-CS2103T-T11-4/main/pull/160[#160]
+** Updated the UI to make it more interactive and user friendly https://github.com/AY1920S1-CS2103T-T11-4/main/pull/17[#17]
 
 * Project management:
 ** Reviewed Pull Requests: [https://github.com/AY1920S1-CS2103T-T11-4/main/pulls?utf8=%E2%9C%93&q=is%3Apr+reviewed-by%3Aeizon05+[My reviews]]
