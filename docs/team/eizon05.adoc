@@ -57,7 +57,7 @@ inception. (see https://docs.google.com/document/d/1mKmIZghbtYwgSWdDTiRQDLdXjKNh
 * Project management:
 ** Reviewed Pull Requests: [https://github.com/AY1920S1-CS2103T-T11-4/main/pulls?utf8=%E2%9C%93&q=is%3Apr+reviewed-by%3Aeizon05+[My reviews]]
 ** Updated ContactUs page https://github.com/AY1920S1-CS2103T-T11-4/main/pull/16[#16]
-** Created first draft and initial layout and plan of the User Guide https://github.com/AY1920S1-CS2103T-T11-4/main/pull/171[#171]
+** Created first draft and initial layout and plan of the User Guide https://github.com/AY1920S1-CS2103T-T11-4/main/pull/17[#17]
 
 
 == Contributions to the User Guide
