@@ -84,4 +84,4 @@ include::../DeveloperGuide.adoc[tag=inventory_ppp]
 
 == Achievements and Learnings
 
-Development __TravelPal__ has been my first timew working with and modifying a pre-existing brown-field software engineering projects. During the process, I have gained a lot practice in programming and in maintaining object oriented principles. This was also my first time using Git and working on a software engineering project as a team. I feel I have improved a lot through this experience, both personally and as a team player. 
+Development __TravelPal__ has been my first time working with and modifying a pre-existing brown-field software engineering projects. During the process, I have gained a lot practice in programming and in maintaining object oriented principles. This was also my first time using Git and working on a software engineering project as a team. I feel I have improved a lot through this experience, both personally and as a team player. 
