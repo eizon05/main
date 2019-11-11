@@ -4,7 +4,9 @@ import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_TYPE;
 
 import seedu.address.logic.commands.Command;
 import seedu.address.logic.commands.inventory.AddInventoryCommand;
+import seedu.address.logic.commands.inventory.CheckInventoryCommand;
 import seedu.address.logic.commands.inventory.DeleteInventoryCommand;
+import seedu.address.logic.commands.inventory.UncheckInventoryCommand;
 import seedu.address.logic.parser.PageParser;
 import seedu.address.logic.parser.exceptions.ParseException;
 import seedu.address.logic.parser.navbar.NavbarViewParser;
@@ -16,6 +18,8 @@ public class InventoryViewParser implements PageParser<Command> {
     static final String MESSAGE_COMMAND_TYPES = " Available command types: \n"
             + AddInventoryCommand.COMMAND_WORD + " "
             + DeleteInventoryCommand.COMMAND_WORD + " | "
+            + CheckInventoryCommand.COMMAND_WORD + " | "
+            + UncheckInventoryCommand.COMMAND_WORD + " | "
             + NavbarViewParser.MESSAGE_COMMAND_TYPES;
     @Override
     public Command parse(String command, String arguments) throws ParseException {

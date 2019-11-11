@@ -15,9 +15,9 @@ public class EnterInventoryCommand extends Command {
 
     public static final String COMMAND_WORD = "inventory";
 
-    public static final String MESSAGE_USAGE = COMMAND_WORD + ": Enters the inventory page";
+    public static final String MESSAGE_USAGE = COMMAND_WORD + ": Enters the trip inventory manager screen";
 
-    public static final String MESSAGE_SUCCESS = "entering the inventory page IS A SUCCESS";
+    public static final String MESSAGE_SUCCESS = "Entered the Trip Inventory Manager.";
 
     @Override
     public CommandResult execute(Model model) throws CommandException {
