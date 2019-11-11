@@ -879,9 +879,13 @@ The __Trip Inventory Manger__ displays all your event-specific inventory items a
 On the __Trip Inventory Manager__ page, the following command are available:
 
 * `add <name>`: Adds a non-event-specfic inventory item with the name, <name>. 
+
 NOTE: <name> must not already exist in the __Trip Inventory Manger__
+
 * `delete <index of inventory item>`: deletes the inventory item
+
 NOTE: The inventory item to delete must exclusively be a non-event-specific inventory item. Otherwise, to delete it, you will have to delete the inventory item from all events it is inside.   
+
 * `check <index of inventory item>`: marks the inventory item as packed
 * `uncheck <index of inventory item>`: marks the inventory item as not yet packed
 
