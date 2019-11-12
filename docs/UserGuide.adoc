@@ -186,7 +186,7 @@ image::editTrip.png[title=" `edit` command generates fields from your previously
 5. Destination : `l/`
 6. Photo File Path : `fp/`
 7. Add an inventory item to the Event Inventory List: 'inv/' (This prefix can be called more than once in the edit command)
-8. Deletes an inventory item from the Event Inventory List: 'dinv/' (This prefix can be called more than once in the edit command)
+8   . Deletes an inventory item from the Event Inventory List: 'dinv/' (This prefix can be called more than once in the edit command)
 
 
 NOTE: You can execute `fc/` with `fp/` to open a file dialog to choose an image rather than type in absoulute path of the image.
@@ -994,6 +994,8 @@ save the changes you made while the editor was open, and close the editor.
 
 '''
 
+// tag::inventory_ppp1[]
+
 === Trip Inventory Manager
 
 ==== Introduction
@@ -1031,7 +1033,7 @@ NOTE: The inventory item to delete must exclusively be a non-event-specific inve
 * `check <index of inventory item>`: marks the inventory item as packed
 * `uncheck <index of inventory item>`: marks the inventory item as not yet packed
 
-
+// end::inventory_ppp1[]
 
 == General info
 
